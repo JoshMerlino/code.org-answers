@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MyNeighborhood",
+            "request": "launch",
+            "mainClass": "MyNeighborhood",
+            "projectName": "code_org_3c526203"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyNeighborhood",
+            "request": "launch",
+            "mainClass": "org.code.neighborhood.MyNeighborhood",
+            "projectName": "code_org_3c526203"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
